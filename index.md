@@ -5,7 +5,7 @@ title: Syllabus
 
 index:
     title: Social Network Analysis
-    subtitle: The objective of this course is to introduce students to Social Network Analysis and its practical application in the criminal justice system. Students will be able to understand and discuss the fundamental issues associated with social network analysis and will understand how to use software to conduct social network analysis. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts in criminal justice fields. The course is analytically rigorous, but no prior programming experience is assumed. By the end of this course, you will know how to construct networks, analyze them, and create reports on networks. 
+    subtitle: The objective of this course is to introduce students to Social Network Analysis and its practical application in the criminal justice system. Students will be able to understand and discuss the fundamental issues associated with social network analysis and will understand how to use software to conduct social network analysis. This course offers a practical, tools-based approach that is designed to build strong foundations for people who want to work as analysts in criminal justice fields. The course is analytically rigorous, but no prior programming experience is assumed. By the end of this course, you will know how to construct networks, analyze them, and create reports on networks. 
 
 
 info:
@@ -74,13 +74,13 @@ Assessment of student performance in this course is based on indications that th
 
 ## B. Demonstrating Proficiency
 
-Students will demonstrate competency in understanding, producing, and communicating results of their analyses through the following assignments:
+Students will demonstrate competency in understanding, producing, and communicating the results of their analyses through the following assignments:
 
 1. Weekly labs that provide opportunities to consolidate and apply material from the readings and tutorials
-2. Discussion topics on social networks concepts as they pertain to crime and criminal justice
+2. Discussion topics on social network concepts as they pertain to crime and criminal justice
 3. A final project that integrates several skills developed through the course  
 
-Assigned work, including the final course project as well as regular, active participation in online discussion sessions (a critical part of the course learning strategy) are the tools the instructor will use to measure comprehension and skill. The course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
+Assigned work, including the final course project as well as regular, active participation in online discussion sessions (a critical part of the course learning strategy), are the tools the instructor will use to measure comprehension and skill. The course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
 
 **Note:** Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above), all assigned work should be completed on time with careful attention to assignment details.
 
@@ -90,7 +90,7 @@ Assigned work, including the final course project as well as regular, active par
 
 ### Incremental Progression
 
-Mastering the concepts of social network analysis as well as the data programming skills needed to conduct network analysis is like learning a language. You start by mastering basic vocabulary that is specific to the field. Through your coursework you will become conversant in how network scholars talk about networks as well as approaches to analysis of networks. Progress might be slow at first as you work to master core concepts, integrate the building blocks into a coherent mental model of real-world problems, learn to translate technical results into clear narratives for non-technical audiences, and become comfortable with data programming skills. This is just part of the process. It sort of feels like this:
+Mastering the concepts of social network analysis, as well as the data programming skills needed to conduct network analysis, is like learning a language. You start by mastering basic vocabulary that is specific to the field. Through your coursework, you will become conversant in how network scholars talk about networks as well as approaches to the analysis of networks. Progress might be slow at first as you work to master core concepts, integrate the building blocks into a coherent mental model of real-world problems, learn to translate technical results into clear narratives for non-technical audiences, and become comfortable with data programming skills. This is just part of the process. It sort of feels like this:
 
 <br>
 
@@ -100,11 +100,11 @@ Mastering the concepts of social network analysis as well as the data programmin
 
 <br>
 
-But, over time you will find that your thought processes change as you approach network related problems differently. In fact, you might come to see a whole new set of problems as answerable through network analysis. In other words, you begin to think and speak like a social network analyst.
+But, over time, you will find that your thought processes change as you approach network-related problems differently. In fact, you might come to see a whole new set of problems as answerable through network analysis. In other words, you begin to think and speak like a social network analyst.
 
 ### Retention
 
-Similar to immersion in a language, the best way to learn the material is to be consistent in doing course work each day. The more frequently you revisit concepts and practice using the software, the more you will absorb. The curriculum has been designed around this approach. Readings and tutorials are split into small units, and each unit includes questions to test your understanding of the material. Weekly labs allow you to spend some time applying the material to a specific problem. The final project at the end of the semester is designed to help you make connections between concepts and consolidate knowledge.
+Similar to immersion in a language, the best way to learn the material is to be consistent in doing coursework each day. The more frequently you revisit concepts and practice using the software, the more you will absorb. The curriculum has been designed around this approach. Readings and tutorials are split into small units, and each unit includes questions to test your understanding of the material. Weekly labs allow you to spend some time applying the material to a specific problem. The final project at the end of the semester is designed to help you make connections between concepts and consolidate knowledge.
 
 You will be much better off spending a small amount of time each day on the material instead of trying to cram everything into a couple of days a week.
 
@@ -136,13 +136,13 @@ The assigned work for the term comes in the form of three elements, described be
 
 ### Weekly Labs (60%)  
 
-Each week you will receive a short lab that will help you synthesize the material from the week. Weekly labs will receive one of the following scores: 10 (excellent work!), 7 (great start, but there are a few things to fix), 3 (I can see you are working hard, but there are a number of areas that need fixing). Scoring is based on the answers you provide, the cleanliness of the code and output, and proofreading of the entire document. I will review your lab after it is turned in and provide feedback. *NOTE*: Weekly labs <u>can</u> be **resubmitted** once. You can make revisions to your lab, based on my feedback, and I will regrade it (once). For example, if you turn in a lab, receive a score of 7, and then revise the lab based on my feedback, you could earn a 10. **Re**-submissions with revisions will be accepted up to the day that the lab is due. Lab submissions or **re**-submissions <u>will not be</u> accepted after the review session as we will be going through the solutions. 
+Each week, you will receive a short lab that will help you synthesize the material from the week. Weekly labs will receive one of the following scores: 10 (excellent work!), 7 (great start, but there are a few things to fix), 3 (I can see you are working hard, but there are a number of areas that need fixing). Scoring is based on the answers you provide, the cleanliness of the code and output, and proofreading of the entire document. I will review your lab after it is turned in and provide feedback. *NOTE*: Weekly labs <u>can</u> be **resubmitted** once. You can make revisions to your lab, based on my feedback, and I will regrade it (once). For example, if you turn in a lab, receive a score of 7, and then revise the lab based on my feedback, you could earn a 10. **Re**-submissions with revisions will be accepted up to the day that the lab is due. Lab submissions or **re**-submissions <u>will not be</u> accepted after the review session, as we will be going through the solutions. 
 
 #### Lab Review Sessions
 
-For each lab, there will be a review session after the assignment is due. In these sessions I will go over the solutions in the lab. This provides an opportunity for you to ask questions as I work through the code for the lab. Since we will be discussing the solutions for the labs, you will not be able to turn in a lab assignment after the review session. I understand that things come up that interfere with assignments, but the best way to prevent this situation is to start early on the assignment. This is why I will hold the review sessions after the labs are due: so that we can discuss the code and you can start working on the next assignment as soon as possible.
+For each lab, there will be a review session after the assignment is due. In these sessions, I will go over the solutions in the lab. This provides an opportunity for you to ask questions as I work through the code for the lab. Since we will be discussing the solutions for the labs, you will not be able to turn in a lab assignment after the review session. I understand that things come up that interfere with assignments, but the best way to prevent this situation is to start early on the assignment. This is why I will hold the review sessions after the labs are due: so that we can discuss the code and you can start working on the next assignment as soon as possible.
 
-Use the following link to sign-up for the [Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session). I know that not everyone will be able to attend at the set time, but I strongly encourage you to do so. However, for those who are unable to attend, I will record the review session and send the recording in an announcement through Canvas.
+Use the following link to sign up for the [Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session). I know that not everyone will be able to attend at the set time, but I strongly encourage you to do so. However, for those who are unable to attend, I will record the review session and send the recording in an announcement through Canvas.
 
 ### Discussion Topics (10%)
 
@@ -157,12 +157,12 @@ These points automatically update on *Canvas*. The total grade is cumulative, re
 
 ### Final Project (30%)  
 
-This course will close with a final project. The final project will use all of the information you have learned in this course to create a report on a network. For the final project, you will use data from the [Phoenix Open Data Portal](https://www.phoenixopendata.com/). For the final project you will use co-arrest data reported in Phoenix. These data represent incidents where individuals were arrested together. You will be asked to imagine that you work for a police department and your supervisor has asked you to create a report on co-offending networks. 
+This course will close with a final project. The final project will use all of the information you have learned in this course to create a report on a network. For the final project, you will use data from the [Phoenix Open Data Portal](https://www.phoenixopendata.com/). For the final project, you will use the co-arrest data reported in Phoenix. These data represent incidents where individuals were arrested together. You will be asked to imagine that you work for a police department and your supervisor has asked you to create a report on co-offending networks. 
 
 The following criteria, description, and corresponding points are used to evaluate the project (30 points total):
 
   - **Answering Prompts:** Providing responses for each of the prompts and code for all prompts **(15 pts)**
-  - **Following Report Format Instructions:** Following instructions for report content (i.e. not having extraneous code or output in the report) **(10 pts)**
+  - **Following Report Format Instructions:** Following instructions for report content (i.e., not having extraneous code or output in the report) **(10 pts)**
   - **Proofreading and Style:** Responses are free of grammatical errors; content exceeds expectations in functionality, design, layout, analysis, or insights **(5 pts)**
 
 ## D. General Grading Rubric for Written Work
@@ -178,27 +178,27 @@ Most assignments in this course are labs that are graded pass-fail based upon co
 
 ## E. Late and Missing Assignments
 
-Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed in a timely fashion by the due date. After the review session, it is no longer possible to receive points for assignments.
+Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed in a timely fashion by the due date. After the review session, it is no longer possible to receive points for assignments.
 
 ## F. Course Communications and Instructor Feedback
 
-**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**Canvas shell**](https://canvas.asu.edu/courses/224565).
+**Course content** is hosted on this website. Lecture files, assignments, and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**Canvas shell**](https://canvas.asu.edu/courses/224565).
 
 Please post lab questions on the [**Get Help**](https://watts-college.github.io/crj-507-fall-2025/help/) page on this site, schedule individual office hours using the [Calendly link](https://calendly.com/jacobtnyoung/crj-507-student-meeting), and [email me](mailto:CRJ507@asu.edu) directly instead of using the Canvas system.
 
 Be aware that I will attempt to respond to any course-related email as quickly as possible. I ask that you allow between 24 and 48 hours as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for grading and feedback on assignments is no more than 5 work days.
 
-ASU email is the official means of communication among students, faculty, and staff. You bear the responsibility of missed messages and should check your ASU-assigned email regularly. All correspondence will be sent to your ASU email account. Please ensure Canvas notifications are being sent to your email.
+ASU email is the official means of communication among students, faculty, and staff. You bear the responsibility for missed messages and should check your ASU-assigned email regularly. All correspondence will be sent to your ASU email account. Please ensure Canvas notifications are being sent to your email.
 
 ## G. Student Conduct: Expectation of Professional Behavior
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund, per [**ASU Policy USI 201-10**](http://www.asu.edu/aad/manuals/usi).
 
-Students are required to adhere to the behavior standards listed in the [**Arizona Board of Regents Policy Manual Chapter V: Campus and Student Affairs**](https://public.powerdms.com/ABOR/documents/1491970) .
+Students are required to adhere to the behavior standards listed in the [**Arizona Board of Regents Policy Manual Chapter V: Campus and Student Affairs**](https://public.powerdms.com/ABOR/documents/1491970).
 
 # H. Academic Integrity and Honesty
 
-ASU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the College of Public Programs for investigation.
+ASU expects the highest standards of academic integrity. Violations of academic integrity include, but are not limited to, cheating, plagiarism, fabrication, etc., or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the College of Public Programs for investigation.
 
 **Plagiarism will not be tolerated**. **Any student who plagiarizes or fabricates her or his work will receive no credit for the assignment. Additional disciplinary action following investigation may occur at the discretion of the instructor, up to and including course failure.**
 
@@ -206,11 +206,11 @@ For more information, refer to the [**Office of the Provost's Guide to Academic 
 
 # I. Student Learning Environment: Accommodations
 
-**Disability Accommodations:**  Students should be aware that Arizona State University is committed to providing reasonable accommodation and access to programs and services to persons with disabilities. Students with disabilities who wish to seek academic accommodations must contact the ASU Disability Resources Center directly.  Information on the Center&#39;s procedures, resources and how to contact its staff can be found at the [**Disability Resource Center**](https://eoss.asu.edu/drc/).  The Disability Resources Center is responsible for reviewing any student&#39;s requests; once that review has taken place, the Center will provide the student with appropriate information on academic accommodations which in turn will be provided to the course instructor.
+**Disability Accommodations:**  Students should be aware that Arizona State University is committed to providing reasonable accommodation and access to programs and services to persons with disabilities. Students with disabilities who wish to seek academic accommodations must contact the ASU Disability Resources Center directly.  Information on the Center&#39;s procedures, resources, and how to contact its staff can be found at the [**Disability Resource Center**](https://eoss.asu.edu/drc/).  The Disability Resources Center is responsible for reviewing any student&#39;s requests; once that review has taken place, the Center will provide the student with appropriate information on academic accommodations, which in turn will be provided to the course instructor.
 
 **Religious accommodations:** Students will not be penalized for missing an assignment due solely to a religious holiday or observance, but as this class operates with a fairly flexible schedule, all efforts should be made to complete work within the required timeframe. If this is not possible, students must notify the instructor as far in advance as possible in order to make an alternative arrangement.
 
-**Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incomplete depending on the timing of the activation. For more information see [**ASU Policy USI 201-18**](http://www.asu.edu/aad/manuals/usi).
+**Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incomplete, depending on the timing of the activation. For more information, see [**ASU Policy USI 201-18**](http://www.asu.edu/aad/manuals/usi).
 
 # J. Additional Syllabus Content
 
@@ -222,7 +222,7 @@ Any content for the syllabus required by the university, but not included here, 
 
 As students are all aware, ASU Online courses are typically offered on a seven and a half week schedule. A schedule for each week of the term is outlined in the Course Schedule. The course is divided into seven units with specific learning objectives for each unit.
 
-**Note:** The course instructor may from time to time adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
+**Note:** The course instructor may, from time to time, adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
 Visit the [**Course Schedule**](https://watts-college.github.io/crj-507-fall-2025/schedule/).
 
