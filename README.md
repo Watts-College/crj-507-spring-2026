@@ -1,2 +1,2 @@
-# crj-507-fall-2025
-Course shell for CRJ 507. 
+# crj-507-spring-2026
+Course shell for CRJ 507: Social Network Analysis. 
