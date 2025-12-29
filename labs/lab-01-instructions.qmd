@@ -44,4 +44,4 @@ Upload a `.pdf` or `.docx` file to the appropriate link for this assignment on t
 
 <br>
 
-###### ***Please*** report any needed corrections to the [Issues](https://github.com/Watts-College/crj-507-fall-2025/issues/new) page. Thanks!
+###### ***Please*** report any needed corrections to the [Issues](https://github.com/Watts-College/crj-507-spring-2026/issues/new) page. Thanks!
