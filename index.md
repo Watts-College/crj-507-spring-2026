@@ -84,6 +84,7 @@ Assigned work, including the final course project as well as regular, active par
 (a critical part of the course learning strategy), are the tools the instructor will use to measure comprehension and skill. 
 The course grade is a direct reflection of demonstrated performance. 
 Students should take stated expectations seriously regarding preparation, 
+conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
 
 **Note:** Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. 
 To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above), all assigned work should be completed on time with careful attention to assignment details.
