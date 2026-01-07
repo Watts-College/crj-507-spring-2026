@@ -410,7 +410,6 @@ The following checklist will help you stay organized in your first week.
 - [ ] Complete Assigned Software Tutorials: [Getting Started with R](https://jacobtnyoung.github.io/snaca-r/snaca-r-intro-to-r.html) and [Creating Data-Driven Documents using RMarkdown](https://jacobtnyoung.github.io/snaca-r/snaca-r-rmarkdown.html)
 - [ ] Post & Exchange on Discussion Topic, Maximum 20 Points (See Below)
 - [ ] Complete & Submit [Lab 1](../labs/lab-01-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Session](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 
 <br>
 
@@ -535,7 +534,6 @@ The following checklist will help you stay organized in your second week.
 - [ ] Complete Assigned Software Tutorials: [Working with Networks in R](https://jacobtnyoung.github.io/snaca-r/snaca-r-network-data.html) and [Basics of Network Visualization](https://jacobtnyoung.github.io/snaca-r/snaca-r-visualization.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 2](../labs/lab-02-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 
 <br>
 
@@ -657,7 +655,6 @@ The following checklist will help you stay organized in your third week.
 - [ ] Complete Assigned Software Tutorial: [Degree Centrality](https://jacobtnyoung.github.io/snaca-r/snaca-r-degree-centrality.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 3](../labs/lab-03-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 
 <br>
 
@@ -780,7 +777,6 @@ The following checklist will help you stay organized in your fourth week.
 - [ ] Complete Assigned Software Tutorials: [Closeness Centrality and Centralization](https://jacobtnyoung.github.io/snaca-r/snaca-r-closeness-centrality.html) and [Betweenness Centrality and Centralization](https://jacobtnyoung.github.io/snaca-r/snaca-r-betweenness-centrality.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 4](../labs/lab-04-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 - [ ] (Recommended) Familiarize Yourself with the [Final Project](../labs/final-project-instructions.html)
 
 <br>
@@ -900,7 +896,6 @@ The following checklist will help you stay organized in your fifth week.
 - [ ] Complete Assigned Software Tutorial: [Bipartite Graphs & Two-Mode Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-bipartite.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 5](../labs/lab-05-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 - [ ] (Recommended) Familiarize Yourself with the [Final Project](../labs/final-project-instructions.html)
 
 <br>
@@ -1019,7 +1014,6 @@ The following checklist will help you stay organized in your sixth week.
 - [ ] Complete Assigned Software Tutorial: [Projection & Weigthed Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-projection.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 6](../labs/lab-06-instructions.html) (See Below)
-- [ ] [Sign-Up for the Lab Review Sessions](https://calendly.com/jacobtnyoung/crj-507-lab-review-session)
 - [ ] Begin [Final Project](../labs/final-project-instructions.html)
 
 <br>
