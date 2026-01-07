@@ -5,8 +5,6 @@ title: Syllabus
 
 index:
     title: Social Network Analysis
-    subtitle: The objective of this course is to introduce students to Social Network Analysis and its practical application in the criminal justice system. Students will be able to understand and discuss the fundamental issues associated with social network analysis and will understand how to use software to conduct social network analysis. This course offers a practical, tools-based approach that is designed to build strong foundations for people who want to work as analysts in criminal justice fields. The course is analytically rigorous, but no prior programming experience is assumed. By the end of this course, you will know how to construct networks, analyze them, and create reports on networks. 
-
 
 info:
  program_title: Online Master of Science in Crime Analysis
@@ -50,7 +48,7 @@ textbooks:
 The objective of this course is to introduce students to *Social Network Analysis* and its practical application in the criminal justice system. 
 Students will be able to understand and discuss the fundamental issues associated with social network analysis and will understand how to use software to conduct social network analysis. 
 This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts in criminal justice fields. 
-The course is analytically rigorous, but no prior programming experience is assumed. By the end of this course, you will know how to construct networks, analyze them, and create reports on networks.
+The course is analytically rigorous, but no prior programming experience is assumed. By the end, you will know how to construct networks, analyze them, and create reports on networks.
 
 ## B. Course Objectives
 
@@ -82,9 +80,10 @@ Students will demonstrate competency in understanding, producing, and communicat
 2. Discussion topics on social network concepts as they pertain to crime and criminal justice
 3. A final project that integrates several skills developed through the course  
 
-Assigned work, including the final course project as well as regular, active participation in online discussion sessions (a critical part of the course learning strategy), are the tools the instructor will use to measure comprehension and skill. 
+Assigned work, including the final course project as well as regular, active participation in online discussion sessions 
+(a critical part of the course learning strategy), are the tools the instructor will use to measure comprehension and skill. 
 The course grade is a direct reflection of demonstrated performance. 
-Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
+Students should take stated expectations seriously regarding preparation, 
 
 **Note:** Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. 
 To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above), all assigned work should be completed on time with careful attention to assignment details.
@@ -97,7 +96,7 @@ To receive an outstanding course grade (using the grading scheme described below
 
 Mastering the concepts of social network analysis, as well as the data programming skills needed to conduct network analysis, is like learning a language. 
 You start by mastering basic vocabulary that is specific to the field. 
-Through your coursework, you will become conversant in how network scholars talk about networks as well as approaches to the analysis of networks. 
+Through your coursework, you will become conversant in how network scholars and analysts talk about networks as well as approaches to the analysis of networks. 
 Progress might be slow at first as you work to master core concepts, integrate the building blocks into a coherent mental model of real-world problems, learn to translate technical results into clear narratives for non-technical audiences, and become comfortable with data programming skills. 
 This is just part of the process. It sort of feels like this:
 
@@ -118,7 +117,7 @@ Similar to immersion in a language, the best way to learn the material is to be 
 The more frequently you revisit concepts and practice using the software, the more you will absorb. 
 The curriculum has been designed around this approach. 
 Readings and tutorials are split into small units, and each unit includes questions to test your understanding of the material. 
-Weekly labs allow you to spend some time applying the material to a specific problem. 
+Weekly labs allow you to spend time applying the material to a specific problem. 
 The final project at the end of the semester is designed to help you make connections between concepts and consolidate knowledge.
 
 You will be much better off spending a small amount of time each day on the material instead of trying to cram everything into a couple of days a week.
@@ -139,8 +138,7 @@ Rather, the discussions are a chance for peer-to-peer interaction and proactive 
 
 We will use two custom textbooks for this course. 
 First, [**Social Network Analysis for Crime Analysts**](https://jacobtnyoung.github.io/snaca-textbook/) was designed specifically for crime analysts seeking to learn the mechanics of social network analysis. 
-Second, [**Social Network Analysis for Crime Analysts using R**](https://jacobtnyoung.github.io/snaca-r/) is a companion textbook that provides tutorials for conducting social network analysis in R.
-
+Second, [**Social Network Analysis for Crime Analysts using R**](https://jacobtnyoung.github.io/snaca-r/) is a companion textbook that provides tutorials for conducting social network analysis in R. 
 In addition to the required reading, the instructor will supplement these with journal articles.
 
 ## C. Course Grading System for Assigned Work & Final Projects
@@ -162,12 +160,13 @@ The assigned work for the term comes in the form of three elements, described be
 Each week, you will receive a short lab that will help you synthesize the material from the week. 
 Weekly labs will receive one of the following scores: 10 (excellent work!), 7 (great start, but there are a few things to fix), 3 (I can see you are working hard, but there are a number of areas that need fixing). 
 Scoring is based on the answers you provide, the cleanliness of the code and output, and proofreading of the entire document.
+
 On the day **before** the lab is due, I will grade the labs and provide feedback, noting any changes you might consider to improve your grade (if needed).
 This means that if you want to get feedback, turn it in early!
 *NOTE*: Weekly labs <u>can</u> be **resubmitted** once. You can make revisions to your lab, based on my feedback, and I will regrade it (once). 
 For example, if you turn in a lab, receive a score of 7, and then revise the lab based on my feedback, you could earn a 10. 
 **Re**-submissions with revisions will be accepted up to the day that the lab is due. 
-Lab submissions or **re**-submissions <u>will not be</u> accepted after the lab review video is distributed as it will provide the solutions to the lab. 
+Lab submissions or **re**-submissions <u>will not</u> be accepted after the lab review video is distributed as it will provide the solutions to the lab. 
 
 #### Lab Review Video
 
@@ -218,7 +217,7 @@ In general, any submitted work is assessed on these evaluative criteria:
 ## E. Late and Missing Assignments
 
 Grades for the course are largely based on weekly labs. 
-Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. 
+Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult with me to ask questions. 
 As a result, each assignment element in the course is expected to be completed in a timely fashion by the due date. 
 After each lab is due, I will record and post a lab review video.
 After the video is distributed, it is no longer possible to receive points for assignments.
@@ -227,13 +226,15 @@ After the video is distributed, it is no longer possible to receive points for a
 
 **Course content** is hosted on this website. 
 Lecture files, assignments, and other course communications will be transmitted via this site and/or through the class email list. 
-**All assignment submissions** will be made through the [**Canvas shell**](https://canvas.asu.edu/courses/224565).
+**All assignment submissions** will be made through Canvas.
 
-Please post lab questions on the [**Get Help**](https://watts-college.github.io/crj-507-spring-2026/help/) page on this site, schedule individual office hours using the [Calendly link](https://calendly.com/jacobtnyoung/crj-507-student-meeting), and [email me](mailto:CRJ507@asu.edu). Please do not use the Canvas system to send emails or course questions.
+Please post lab questions on the [**Get Help**](https://watts-college.github.io/crj-507-spring-2026/help/) page on this site, 
+schedule individual office hours using the [Calendly link](https://calendly.com/jacobtnyoung/crj-507-student-meeting), 
+and [email me](mailto:CRJ507@asu.edu). Please do not use the Canvas system to send emails or course questions as it is not set-up well for handling questions that we will address in this course.
 
 Be aware that I will attempt to respond to any course-related email as quickly as possible. 
 I ask that you allow between 24 and 48 hours as a reasonable time to reply to questions or other issues posed in an email. 
-Additionally, the general timeline for grading and feedback on assignments is no more than 5 work days.
+Additionally, the general timeline for grading and feedback on assignments is no more than 3 work days.
 
 ASU email is the official means of communication among students, faculty, and staff. 
 You bear the responsibility for missed messages and should check your ASU-assigned email regularly. 
@@ -265,9 +266,7 @@ For more information, refer to the [**Office of the Provost's Guide to Academic 
 
 # IV. AI Policy
 
-Use of generative AI tools (e.g., ChatGPT, Copilot, Gemini, Claude, Code Llama, etc.) is **strictly prohibited** in this course.
-
-This includes, but is not limited to, using AI tools to:
+Use of generative AI tools (e.g., ChatGPT, Copilot, Gemini, Claude, Code Llama, etc.) is **strictly prohibited** in this course. This includes, but is not limited to, using AI tools to:
 - Write or edit code  
 - Debug code  
 - Generate explanations, summaries, or interpretations  
@@ -276,24 +275,28 @@ This includes, but is not limited to, using AI tools to:
 
 You are expected to complete all work independently using only the materials and code provided in the course. 
 All code needed to complete assignments is provided within the course materials. 
-Therefore any code, syntax, or approach not found in the course materials will be assumed to have originated from a generative AI tool.
+Therefore any code or approach not found in the course materials will be assumed to have originated from a generative AI tool.
 
 If your submission contains material outside the scope of course-provided resources, it will be treated as a violation of this policy. 
 If an assignment contains AI-generated content or unauthorized code the assignment will receive a **0** and you will be required to **redo the assignment** using only approved course materials.
 
-Note that all course templates used for the labs **copyrighted instructional materials**. 
+Note that all course templates used for the labs are **copyrighted instructional materials**. 
 It is a violation of **course policy** and **copyright law** to upload or paste any portion of these materials into a generative AI system or external tool for processing, rewriting, or analysis.
 You may use the templates **only** for completing your coursework in this class. Redistribution, uploading, or repurposing of these materials is strictly prohibited.
 
-**Why?** this policy? This course is about learning the materials I have provided. Using generative AI bypasses these learning objectives and prevents meaningful assessment of your work.
+**Why** this policy? This course is about learning the materials I have provided. 
+Using generative AI bypasses these learning objectives and prevents meaningful assessment of your work.
 
 # V. Course Schedule
 
 ## A. Schedule: Overview of Readings and Assignments
 
-As students are all aware, ASU Online courses are typically offered on a seven and a half week schedule. A schedule for each week of the term is outlined in the Course Schedule. The course is divided into seven units with specific learning objectives for each unit.
+ASU Online courses are typically offered on a seven and a half week schedule. 
+A schedule for each week of the term is outlined in the [**Course Schedule**](https://watts-college.github.io/crj-507-spring-2026/schedule/). 
+The course is divided into seven units with specific learning objectives for each unit.
 
-**Note:** The course instructor may, from time to time, adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
+**Note:** I may, from time to time, adjust assigned readings or adjust the due dates for assignments. 
+The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
 Visit the [**Course Schedule**](https://watts-college.github.io/crj-507-spring-2026/schedule/).
 

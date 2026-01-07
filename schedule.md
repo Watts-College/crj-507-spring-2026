@@ -48,8 +48,9 @@ final-project:
 
 ## About Your Professor: [Jacob Young](https://jacobtnyoung.github.io/)
 
-Hi there! My name is [Jacob Young](https://jacobtnyoung.github.io/) and I will be your instructor for this course. 
-For the last two decades I have researched and taught about social networks in a variety of contexts: adolescent friendship groups, incarcerated men and women, police officers, and academics. 
+Hi there! My name is [Jacob Young](https://jacobtnyoung.github.io/) and I will be your guide for this course. 
+I created this course as well as the materials we will use and for the last two decades I have researched and taught 
+about social networks in a variety of contexts: adolescent friendship groups, incarcerated men and women, police officers, youth probationers, and academics. 
 I am passionate about social network analysis and I hope to pass that passion on to you in this course.
 
 <br>
