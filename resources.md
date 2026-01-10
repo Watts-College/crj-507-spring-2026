@@ -22,7 +22,7 @@ Just like learning a new language, there is no way to become fluent in a semeste
 
 ## R Cheat Sheets
 
-Cheat sheets are parsimonious and stylized notes that help organize functions and syntax so it is easier to learn and find. R Studio has an extensive list of [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) that you might find helpful.
+Cheat sheets are parsimonious and stylized notes that help organize functions and syntax, making it easier to learn and find. R Studio has an extensive list of [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) that you might find helpful.
 
 [R Studio Resources for Beginners](https://education.rstudio.com/)
 
@@ -33,7 +33,7 @@ Tutorials from Rexercises [ [link](https://www.r-exercises.com/start-here-to-lea
 
 ## Data-Driven Documents
 
-For the purpose of transparency and reproducibility, as well as simple convenience, there is high demand for documents that combine typical elements of publications and reports such as text, tables, graphs and images, and the code that was used to create the analysis presented in the text. These efforts have largely converged on Markdown as a simple publishing language, and derivations like R Markdown to incorporate output from models into documents.
+For the purpose of transparency and reproducibility, as well as simple convenience, there is high demand for documents that combine typical elements of publications and reports such as text, tables, graphs, and images, and the code that was used to create the analysis presented in the text. These efforts have largely converged on Markdown as a simple publishing language, and derivations like R Markdown to incorporate output from models into documents.
 
 Markdown is a simple set of rules used to format text and images. Formatting it accomplished by adding tags to text.
 

@@ -10,13 +10,13 @@ knitr::opts_chunk$set (echo = TRUE )
 
 The purpose of this lab is to familiarize yourself with calculating degree centrality and degree centralization scores for undirected and directed networks in *R*. Please review the [Degree Centrality](https://jacobtnyoung.github.io/snaca-textbook/snaca-centrality-degree.html) chapter of the [Social Network Analysis for Crime Analysts](https://jacobtnyoung.github.io/snaca-textbook/index.html) textbook and the [Degree Centrality and Centralization](https://jacobtnyoung.github.io/snaca-r/snaca-r-degree-centrality.html) tutorial in the [Social Network Analysis for Crime Analysts using R](https://jacobtnyoung.github.io/snaca-r/index.html) textbook prior to beginning this lab.    
 
-In Parts I and II of this lab we will use two new networks (described below). In Part III, you will use the two networks you created from [Lab 1](../labs/lab-01-instructions.html) and [Lab 2](../labs/lab-02-instructions.html).
+In Parts I and II of this lab, we will use two new networks (described below). In Part III, you will use the two networks you created from [Lab 1](../labs/lab-01-instructions.html) and [Lab 2](../labs/lab-02-instructions.html).
 
 <br>
 
 ## Part I: Working with an Undirected Network
 
-For this part of the lab you will use data from [Thomas Grund and James Densley's study](https://journals.sagepub.com/doi/full/10.1177/1043986214553377) of ties among members of an inner-city gang in London, England. The network is undirected, binary ties collected from arrest data. This network is available in `SNACpack` and is called `london_gang_net`. To review documentation on the network, use `?london_gang_net`.
+For this part of the lab, you will use data from [Thomas Grund and James Densley's study](https://journals.sagepub.com/doi/full/10.1177/1043986214553377) of ties among members of an inner-city gang in London, England. The network is undirected, with binary ties collected from arrest data. This network is available in `SNACpack` and is called `london_gang_net`. To review documentation on the network, use `?london_gang_net`.
 
 ::: {.callout-note title="Network and Matrix Objects"}
 *Note* that the object, and all networks in the `SNACpack` package, is of class `network`. This means that to use functions for objects of class `matrix` (such as `dim()` or `sum()`), you need to first coerce the object to a `matrix` object using `as.matrix`. For example: `my_matrix <- as.matrix( my_network )`.
@@ -31,7 +31,7 @@ For the `london_gang_net` network, do the following:
   3. Implement the proposed changes using `gplot()` and describe how each change affects how we see the network.
   4. Without running any code, describe what kind of actor in this network is likely to have a *high* degree centrality score. 
   5. Calculate the degree centrality score for each actor. 
-  6. There are three actors with the highest degree centrality scores. Who are they and what does this say about their position in the network?
+  6. There are three actors with the highest degree centrality scores. Who are they, and what does this say about their position in the network?
   7. What does it mean to "standardize" degree centrality? Why might we want to do this?
   8. Calculate the standardized degree centrality scores. Are the three actors with the highest degree centrality scores the same individuals with the highest *standardized* degree centrality scores? Why or why not?
   9. Calculate the mean degree centrality score. Does the mean degree centrality score represent the "typical" actor in this network? Why or why not?
@@ -45,7 +45,7 @@ For the `london_gang_net` network, do the following:
 
 ## Part II: Working with a Directed Network
 
-For this part of the lab you will use data from [Mangia Natarajan's study](https://link.springer.com/article/10.1007/s10940-006-9007-x) of a large cocaine trafficking organization in New York City. The network is directed, binary ties of communication between individuals collected from police wiretaps of telephone conversations. This network is available in `SNACpack` and is called `cocaine_dealing_net`. To review documentation on the network, use `?cocaine_dealing_net`. 
+For this part of the lab, you will use data from [Mangia Natarajan's study](https://link.springer.com/article/10.1007/s10940-006-9007-x) of a large cocaine trafficking organization in New York City. The network is directed, with binary ties of communication between individuals collected from police wiretaps of telephone conversations. This network is available in `SNACpack` and is called `cocaine_dealing_net`. To review documentation on the network, use `?cocaine_dealing_net`. 
 
 ::: {.callout-note title="Network and Matrix Objects"}
 *Note* that the object, and all networks in the `SNACpack` package, is of class `network`. This means that to use functions for objects of class `matrix` (such as `dim()` or `sum()`), you need to first coerce the object to a `matrix` object using `as.matrix`. For example: `my_matrix <- as.matrix( my_network )`.
@@ -60,7 +60,7 @@ For the `cocaine_dealing_net` network, do the following:
   3. Implement the proposed changes using `gplot()` and describe how each change affects how we see the network.
   4. Without running any code, describe what kind of actor in this network is likely to have a *high* indegree centrality score and a *high* outdegree centrality score. How might that individual be different from someone who has a *high* indegree centrality score but a *low* outdegree centrality score? Which one is more prevalent in the network? 
   5. Calculate the indegree and outdegree centrality scores for each actor. 
-  6. There is one actor with the highest outdegree centrality score. What does this say about their position in the network? What behavior or role might explain their high score? (*hint*: think about what the ties measure).
+  6. There is one actor with the highest outdegree centrality score. What does this say about their position in the network? What behavior or role might explain their high score? (*Hint*: think about what the ties measure).
   7. Calculate the standardized indegree and outdegree centrality scores. 
   8. Calculate the mean indegree and outdegree centrality scores. Interpret each mean centrality score and compare them. Is one larger than the other? What does this mean?
   9. Calculate the graph centralization score for indegree and outdegree centrality. 
@@ -71,7 +71,7 @@ For the `cocaine_dealing_net` network, do the following:
 
 ## Part III: Your Networks
 
-Pick **one** of your networks you created in [Lab 1](../labs/lab-01-instructions.html) and [Lab 2](../labs/lab-02-instructions.html) and do the following:
+Pick **one** of the networks you created in [Lab 1](../labs/lab-01-instructions.html) and [Lab 2](../labs/lab-02-instructions.html), and do the following:
 
   * If the network is *undirected*, repeat the steps in Part I.  
   
@@ -139,8 +139,8 @@ See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for
 `.RMD` files are knit into `.HTML` and other formats procedural, or line-by-line.
 
 * An error in code when knitting will halt the process; error messages will tell you the specific line with the error
-* Certain functions like `install.packages()` or `setwd()` are bound to cause errors in knitting 
-* Altering a dataset or variable in one chunk will affect their use in all later chunks
+* Certain functions, like `install.packages()` or `setwd()`, are bound to cause errors in knitting 
+* Altering a dataset or variable in one chunk will affect its use in all later chunks
 * If an object is "not found", make sure it was created or loaded with `library()` in a previous chunk
 
 **If All Else Fails:** If you cannot determine and fix the errors in a code chunk that's preventing you from knitting your document, add `eval = FALSE` inside the brackets of `{r}` at the beginning of a chunk to ensure that R does not attempt to evaluate it, that is: `{r eval = FALSE}`. This will prevent an erroneous chunk of code from halting the knitting process.  

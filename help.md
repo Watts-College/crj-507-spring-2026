@@ -9,13 +9,13 @@ We are using GitHub Issues for posting questions about this course.
 
 #### (1) Don't Repeat Questions
 
-Check the existing list of questions and topics to make sure your questions has not been asked already. Often times the answer already exists, you just need to read a couple of previous discussions.
+Check the existing list of questions and topics to make sure your question has not been asked already. Oftentimes, the answer already exists; you just need to read a couple of previous discussions.
 
 #### (2) Include Your Code
 
 This question is difficult to answer because we don't know how the error was generated unless you share your code:
 
-> I am trying to merge my data but I keep getting the error message, "x is not a factor".
+> I am trying to merge my data, but I keep getting the error message, "x is not a factor".
 
 You need to show the code that generated the error message. Try something like:
 
@@ -47,7 +47,7 @@ alt="Issues" width="800" />
 
 You can include data in your questions in a few ways.
 
-There are some functions that allow you generate random data that can be used to demonstrate the problem.
+There are some functions that allow you to generate random data that can be used to demonstrate the problem.
 
 Many packages include built-in datasets that can be easily loaded with the data() function.
 
@@ -92,13 +92,13 @@ California    9.0     276       91 40.6
 Colorado      7.9     204       78 38.7
 ```
 
-Thus dput() makes it easy for people on the discussion board to re-create your original dataset.
+Thus, dput() makes it easy for people on the discussion board to re-create your original dataset.
 
 ## Style Guides
 
 Computer languages have rules that are similar to grammar rules in natural languages. This is called "syntax". Unlike grammar, syntax is strictly enforced in most computer languages because improper syntax will result in code that does not run.
 
-There is another idiosyncratic aspect of computer code called "style". Since computer code for the most part ignores spaces, you don't have punctuation, and you can nest functions, style describes how readable and clear your code is. You can write accurate and functional code that is really hard to interpret. With good style it will be easier to share and maintain.
+There is another idiosyncratic aspect of computer code called "style". Since computer code, for the most part, ignores spaces, you don't have punctuation, and you can nest functions, style describes how readable and clear your code is. You can write accurate and functional code that is really hard to interpret. With good style, it will be easier to share and maintain.
 
 There are two popular style guides for R:
 

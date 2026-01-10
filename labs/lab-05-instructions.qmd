@@ -10,15 +10,15 @@ knitr::opts_chunk$set( echo = TRUE )
 
 # Introduction
 
-The purpose of this lab is to familiarize yourself with bipartite graphs and two-mode networks in *R*. Prior to beginning this lab, please review the [Bipartite Graphs/Two-Mode Networks](https://jacobtnyoung.github.io/snaca-textbook/snaca-bipartite.html) chapter of the [Social Network Analysis for Crime Analysts](https://jacobtnyoung.github.io/snaca-textbook/index.html) textbook as well as the [Bipartite Graphs and Two-Mode Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-bipartite.html) tutorial in the [Social Network Analysis for Crime Analysts using R](https://jacobtnyoung.github.io/snaca-r/index.html) textbook.
+The purpose of this lab is to familiarize yourself with bipartite graphs and two-mode networks in *R*. Prior to beginning this lab, please review the [Bipartite Graphs/Two-Mode Networks](https://jacobtnyoung.github.io/snaca-textbook/snaca-bipartite.html) chapter of the [Social Network Analysis for Crime Analysts](https://jacobtnyoung.github.io/snaca-textbook/index.html) textbook, as well as the [Bipartite Graphs and Two-Mode Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-bipartite.html) tutorial in the [Social Network Analysis for Crime Analysts using R](https://jacobtnyoung.github.io/snaca-r/index.html) textbook.
 
-In Parts I and II of this lab we will use two new networks (described below). In Part III, you will create your own bipartite network.
+In Parts I and II of this lab, we will use two new networks (described below). In Part III, you will create your own bipartite network.
 
 <br>
 
 ## Part I: A Conspiracy Network
 
-For this part of the lab you will use a network constructed from data recorded in [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&), by David Fischer. In the book, Fischer documents connections through various affiliations in locations and how these influenced the American Revolutionary war. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). This network is available in `SNACpack` and is called `paul_revere_net`. To review documentation on the network, use `?paul_revere_net`.
+For this part of the lab, you will use a network constructed from data recorded in [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&), by David Fischer. In the book, Fischer documents connections through various affiliations in locations and how these influenced the American Revolutionary War. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). This network is available in `SNACpack` and is called `paul_revere_net`. To review documentation on the network, use `?paul_revere_net`.
 
 ::: {.callout-note title="Network and Matrix Objects"}
 *Note* that the objects, and all networks in the `SNACpack` package, are of class `network`. This means that to use functions for objects of class `matrix` (such as `dim()` or `sum()`), you need to first coerce the object to a `matrix` object using `as.matrix`. For example: `my_matrix <- as.matrix( my_network )`.
@@ -53,7 +53,7 @@ For the `paul_revere_net` network, do the following:
 
 ## Part II: A Kidnapping Network
 
-For this part of the lab you will use a network created from the Philippine Kidnappings Data, which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salafist movement that has been founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other kinds of terrorist attacks. The object is a two-mode network, with 246 kidnappers and the 105 terrorist events they attended. This network is available in `SNACpack` and is called `philippine_kidnappings_net`. To review documentation on the network, use `?philippine_kidnappings_net`.
+For this part of the lab, you will use a network created from the Philippine Kidnappings Data, which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salafist movement that was founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other kinds of terrorist attacks. The object is a two-mode network, with 246 kidnappers and the 105 terrorist events they attended. This network is available in `SNACpack` and is called `philippine_kidnappings_net`. To review documentation on the network, use `?philippine_kidnappings_net`.
 
 ::: {.callout-note title="Network and Matrix Objects"}
 *Note* that the objects, and all networks in the `SNACpack` package, are of class `network`. This means that to use functions for objects of class `matrix` (such as `dim()` or `sum()`), you need to first coerce the object to a `matrix` object using `as.matrix`. For example: `my_matrix <- as.matrix( my_network )`.
@@ -84,7 +84,7 @@ For the `philippine_kidnappings_net` network, do the following:
 
 ## Part III: Your Network
 
-For this part of the lab, I would like you to construct a bipartite network. Think about a type of relationship that is interesting, important, etc. and what it connects. It can be a real example from your life, something fictitious, anything really. The *only* restriction is that it should have <u>at least</u> 25 nodes total (e.g., you could have 15 nodes in the first mode and 10 nodes in the second mode). We will be using this network in the next lab, so please be thoughtful in putting your network together.
+For this part of the lab, I would like you to construct a bipartite network. Think about a type of relationship that is interesting, important, etc., and what it connects. It can be a real example from your life, something fictitious, anything really. The *only* restriction is that it should have <u>at least</u> 25 nodes total (e.g., you could have 15 nodes in the first mode and 10 nodes in the second mode). We will be using this network in the next lab, so please be thoughtful in putting your network together.
 
 After creating your bipartite network, do the following:
 
@@ -116,7 +116,7 @@ Feeling bold? Try this challenge question. It is not required, but try taking a 
     * Parker - C3
     * Igor - C3
 
-**Task:** Without using a computer, **or** sketching this network, tell me which two nodes have the highest degree centrality in this network?  
+**Task:** Without using a computer **or** sketching this network, tell me which two nodes have the highest degree centrality in this network?  
 
 <br>
 <br>
@@ -159,7 +159,7 @@ See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for
 
 * An error in code when knitting will halt the process; error messages will tell you the specific line with the error
 * Certain functions like `install.packages()` or `setwd()` are bound to cause errors in knitting 
-* Altering a dataset or variable in one chunk will affect their use in all later chunks
+* Altering a dataset or variable in one chunk will affect its use in all later chunks
 * If an object is "not found", make sure it was created or loaded with `library()` in a previous chunk
 
 **If All Else Fails:** If you cannot determine and fix the errors in a code chunk that's preventing you from knitting your document, add `eval = FALSE` inside the brackets of `{r}` at the beginning of a chunk to ensure that R does not attempt to evaluate it, that is: `{r eval = FALSE}`. This will prevent an erroneous chunk of code from halting the knitting process.  

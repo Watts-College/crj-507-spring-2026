@@ -146,7 +146,7 @@ h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.n
 
 # The Data Science Toolkit
 
-We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).
+We will need three tools to manage your data science projects: a data programming language (R), a project management interface (R Studio), and a way to create data-driven documents (R Markdown).
 
 ## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]
 * What is R?  [ [video](https://player.vimeo.com/video/180644880) ]
@@ -263,7 +263,7 @@ We will need three tools to manage your data science projects: a data programmin
 ## Getting Data into R [ [data import](http://ds4ps.org/dp4ss-textbook/ch-100-importing.html) ] 
 * Read options   
 * Copy and paste from Excel 
-* Using rdata format 
+* Using RData format 
 * Read from csv or tsv
 * Read text files
 * Import from Excel
