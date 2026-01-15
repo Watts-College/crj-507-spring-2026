@@ -22,12 +22,12 @@ Both networks are available in the `SNACpack` package we have used throughout th
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-As with the labs, there is a template for the final project. The template is set up as a report in that the code chunks include the option `echo = FALSE`. What this does is hides the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
+As with the labs, there is a template for the final project. The template is set up as a report, in that the code chunks include the option `echo = FALSE`. What this does is hide the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
 =======
-As with the labs, there is a template for the final project. The template is set up as a report in that the code chunks include the option `echo = FALSE`. What this does is hide the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
+As with the labs, there is a template for the final project. The template is set up as a report, in that the code chunks include the option `echo = FALSE`. What this does is hide the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
 >>>>>>> Stashed changes
 =======
-As with the labs, there is a template for the final project. The template is set up as a report in that the code chunks include the option `echo = FALSE`. What this does is hide the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
+As with the labs, there is a template for the final project. The template is set up as a report, in that the code chunks include the option `echo = FALSE`. What this does is hide the code in the final report. When you render your report, the code will be hidden so that it reads cleanly.
 >>>>>>> Stashed changes
 
 **IMPORTANT**: Do you report entire matrices or objects? These print out very long and are cumbersome to look through.
@@ -110,7 +110,7 @@ See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for
 `.RMD` files are knit into `.HTML` and other formats, procedural, or line-by-line.
 
 * An error in code when knitting will halt the process; error messages will tell you the specific line with the error
-* Certain functions like `install.packages()` or `setwd()` are bound to cause errors in knitting 
+* Certain functions, like `install.packages()` or `setwd()`, are bound to cause errors in knitting 
 * Altering a dataset or variable in one chunk will affect its use in all later chunks
 * If an object is "not found", make sure it was created or loaded with `library()` in a previous chunk
 

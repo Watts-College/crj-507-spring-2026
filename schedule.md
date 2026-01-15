@@ -49,7 +49,7 @@ final-project:
 ## About Your Professor: [Jacob Young](https://jacobtnyoung.github.io/)
 
 Hi there! My name is [Jacob Young](https://jacobtnyoung.github.io/) and I will be your guide for this course. 
-I created this course as well as the materials we will use and for the last two decades I have researched and taught 
+I created this course as well as the materials we will use. For the last two decades, I have researched and taught 
 about social networks in a variety of contexts: adolescent friendship groups, incarcerated men and women, police officers, youth probationers, and academics. 
 I am passionate about social network analysis and I hope to pass that passion on to you in this course.
 
@@ -59,9 +59,9 @@ I am passionate about social network analysis and I hope to pass that passion on
 
 ## What is Social Network Analysis?
 
-Network science is an approach to science that views the world as being composed of systems of actors connected through relational ties (i.e. a network). Network science takes these relational structures as the primary domain of interest. In so doing, research questions take the following forms: How does the network matter? What affects the network? Network analysis is the set of tools used to study relational variables. A set of methods for systematically understanding and identifying connections among actors. This course will introduce you to these tools and their application to problems in the field of criminology and criminal justice.
+Network science is an approach to science that views the world as being composed of systems of actors connected through relational ties (i.e., a network). Network science takes these relational structures as the primary domain of interest. In so doing, research questions take the following forms: How does the network matter? What affects the network? Network analysis is the set of tools used to study relational variables. A set of methods for systematically understanding and identifying connections among actors. This course will introduce you to these tools and their application to problems in the field of criminology and criminal justice.
 
-In this course you will learn how to use R and RStudio to import, analyze, and report on social networks.
+In this course, you will learn how to use R and RStudio to import, analyze, and report on social networks.
 
 ## Introducing R
 
@@ -71,9 +71,9 @@ R is a 30-year-old statistical language created by New Zealand statisticians Rob
 
 ## The R Toolkit
 
-In this course we cover the foundations of social network analysis and show how to implement these topics with the R language. In order to create robust and dynamic analysis we need to use a couple of tools that were built to leverage the power of R and create compelling narratives.
+In this course, we cover the foundations of social network analysis and show how to implement these topics with the R language. In order to create robust and dynamic analysis, we need to use a couple of tools that were built to leverage the power of R and create compelling narratives.
 
-**RStudio** helps you manage projects by organizing files, scripts, packages and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
+**RStudio** helps you manage projects by organizing files, scripts, packages, and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
 
 <br>
 
@@ -267,7 +267,7 @@ Visit the [video](https://youtu.be/cHBFusiPyLw) to navigate using timestamps in 
 
 ## Understand Your Resources
 
-Social network analysis is a very social endeavor and real-world analytics projects are almost always collaborative.
+Social network analysis is a very social endeavor, and real-world analytics projects are almost always collaborative.
 
 This course is designed to be interactive, and a lot of learning occurs by practicing the technical jargon from the field and learning how to talk about network data and tools for analysis.
 
@@ -286,7 +286,7 @@ If you find something confusing, let me know (likely others will find it confusi
 * Post a question to the [course discussion board](https://watts-college.github.io/crj-507-spring-2026/help/)
 * Request a walk-through and I will provide examples and steps
 
-As a general rule of thumb, if you are stuck, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
+As a general rule of thumb, if you are stuck, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues, then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
 
 <br>
 
@@ -358,12 +358,12 @@ This unit introduces the fundamentals of social network analysis. This unit also
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to answer the following questions:
+Once you have completed this section, you will be able to answer the following questions:
 
 * What is “network science” and how is it different from “usual” research?
 * What do networks “look like”?
-* What is R and RStudio and how do I use these programs?
-* What are "data-driven documents" and how do I use them for this course?
+* What are R and RStudio, and how do I use these programs?
+* What are "data-driven documents," and how do I use them for this course?
 
 ## Assigned Reading
 
@@ -379,7 +379,7 @@ Required reading for this unit includes:
 
 ## Lab Assignment
 
-This lab will provide you the opportunity to start thinking about networks and get your "feet wet" in social network analysis. For the first lab, you will construct several networks of your own that you will work with throughout the course. 
+This lab will provide you with the opportunity to start thinking about networks and get your "feet wet" in social network analysis. For the first lab, you will construct several networks of your own that you will work with throughout the course. 
 
 *** { @unit = "", @title = "Readings", @reading, @foldout  }
 
@@ -421,7 +421,7 @@ We will be using a discussion board called **YellowDig** for this course. For yo
 
 1. A little about yourself
 2. Your previous experience with data and analytics
-3. Any experience you have (or do not) with social network analysis
+3. Any experience you do (or do not) have with social network analysis
 3. One thing you hope to do with your new skills as a social network analyst
 
 **Please post your reflection as a new pin on YellowDig.**
@@ -443,7 +443,7 @@ You can earn up to 20 points a week, and points reset on Fridays. You need to ea
 
 ## Lab 1 - Introduction to Network Analysis
 
-This lab will provide you the opportunity to start thinking about networks and get your "feet wet" in social network analysis. For the first lab, you will construct several networks of your own that you will work with throughout the course. 
+This lab will provide you with the opportunity to start thinking about networks and get your "feet wet" in social network analysis. For the first lab, you will construct several networks of your own that you will work with throughout the course. 
 
 <a class="uk-button uk-button-default" onclick="window.open('../labs/lab-01-instructions.html')">LAB 1 Instructions</a>
 
@@ -481,7 +481,7 @@ This section will focus on how we represent network data as matrices. We will al
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to:
+Once you have completed this section, you will be able to:
 * Represent networks using graphs and graph notation
 * Represent undirected and directed networks using matrices
 * Describe four properties of a social network
@@ -501,7 +501,7 @@ Required reading for this unit includes:
 
 ## Lab Assignment
 
-Lab 2 will build off your work in Lab 1 by having you reconstruct your network in R and creating a visualization of that network in R.
+Lab 2 will build off your work in Lab 1 by having you reconstruct your network in R and create a visualization of that network in R.
 
 <br>
 <br>
@@ -600,11 +600,11 @@ This lab has a template. Click to download the lab template. Modify the template
 
 ## Description
 
-How do we know whether a node is important in a network? How can we compare the structure of different networks? These are key questions in network analysis and this week we will start to think about how we describe networks. One of the most popular concepts for accomplishing these tasks in network analysis is *centrality*. That is, important nodes are those who are central. Also, we can compare networks by examining how they differ (or are similar) based on the distribution of centrality scores. This week introduces the concept of centrality, focusing specifically on **degree centrality**. Next week we will shift to two alternative measures of centrality, **closeness** and **betweenness**. 
+How do we know whether a node is important in a network? How can we compare the structure of different networks? These are key questions in network analysis, and this week we will start to think about how we describe networks. One of the most popular concepts for accomplishing these tasks in network analysis is *centrality*. That is, important nodes are those who are central. Also, we can compare networks by examining how they differ (or are similar) based on the distribution of centrality scores. This week introduces the concept of centrality, focusing specifically on **degree centrality**. Next week, we will shift to two alternative measures of centrality, **closeness** and **betweenness**. 
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to:
+Once you have completed this section, you will be able to:
 * Understand the conceptualization of centrality
 * Calculate degree centrality scores for nodes in a network
 * Calculate degree centralization for a network
@@ -665,9 +665,9 @@ The following checklist will help you stay organized in your third week.
 
 ## Degree Centrality and the Mafia
 
-This week we focused on degree centrality as a tool for describing networks. In the article [Vertical organizations, flat networks: Centrality and criminal collaboration in the Italian-American Mafia](https://www.sciencedirect.com/science/article/abs/pii/S0378873321000472) by Andrew Krajewski, Daniel DellaPosta, and Diane Felmlee, they use degree centrality to measure *social status*.
+This week, we focused on degree centrality as a tool for describing networks. In the article [Vertical organizations, flat networks: Centrality and criminal collaboration in the Italian-American Mafia](https://www.sciencedirect.com/science/article/abs/pii/S0378873321000472) by Andrew Krajewski, Daniel DellaPosta, and Diane Felmlee, they use degree centrality to measure *social status*.
 
-For your discussion this week, describe how will you think this measure captures the concept they are interested in examining. Also, think back to the discussion for Week 1. What are some of the limitations to these data that may have influenced the findings?
+For your discussion this week, describe how you will think this measure captures the concept they are interested in examining. Also, think back to the discussion for Week 1. What are some of the limitations of these data that may have influenced the findings?
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
 
@@ -724,7 +724,7 @@ In Week 3, you were introduced to the concept of *centrality* and asked to think
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to:
+Once you have completed this section, you will be able to:
 * Understand the conceptualization of centrality as expressed as distance (the opposite of closeness) or betweenness
 * Calculate closeness and betweenness centrality scores for a set of nodes in a network
 * Calculate closeness and betweenness centralization for a network
@@ -838,11 +838,11 @@ Click to download the lab template.
 
 ## Description
 
-So far, we have worked with networks that have one set of nodes and one set of edges. But, not all of the networks we want to examine have a single node set. More complex relational structures have multiple partitions of node sets. Bipartite graphs allow us to represent networks that have two partitions of nodes. This section of the course will introduce bipartite graphs and get you started working with two-mode networks.
+So far, we have worked with networks that have one set of nodes and one set of edges. But not all of the networks we want to examine have a single node set. More complex relational structures have multiple partitions of node sets. Bipartite graphs allow us to represent networks that have two partitions of nodes. This section of the course will introduce bipartite graphs and get you started working with two-mode networks.
 
 ## Learning Objectives
 
-By the end of this unit you will be able to:
+By the end of this unit, you will be able to:
 
 * Understand the structure of bipartite graphs (also called two-mode networks).
 * Understand how bipartite graphs are represented in matrix form.
@@ -863,9 +863,9 @@ Required reading for this unit includes:
 
 Lab 5 will provide the opportunity to continue to familiarize yourself with bipartite graphs and two-mode networks in *R*. You will work with two networks. 
 
-First, you will use data collected from [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&), by David Fischer. In the book, Fischer documents Revere's connections through various affiliations in locations and how these influenced history. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). 
+First, you will use data collected from [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&) by David Fischer. In the book, Fischer documents Revere's connections through various affiliations in locations and how these influenced history. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). 
 
-Second, you will use the Philippine Kidnappings Data which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salast movement that was founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other terrorist attacks. The network is two-mode, with 246 actors (i.e., terrorist kidnappers) and 105 terrorist events the actors attended. 
+Second, you will use the Philippine Kidnappings Data, which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salast movement that was founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other terrorist attacks. The network is two-mode, with 246 actors (i.e., terrorist kidnappers) and 105 terrorist events the actors attended. 
 
 <br>
 <br>
@@ -909,7 +909,7 @@ The following checklist will help you stay organized in your fifth week.
 
 One of the most discussed topics in the study of illicit or covert networks is the "efficiency/security trade-off". As discussed in the article [The efficiency/security trade-off in criminal networks](https://www.sciencedirect.com/science/article/pii/S0378873306000268), these organizations have to decide whether to emphasize efficiency or security, both of which influence network structure.
 
-For your discussion this week, think about a network that you are interested in studying (or are currently studying) and discuss the "efficiency/security trade-off". Is your network more efficiency focused or security focused? Or does it depend?
+For your discussion this week, think about a network that you are interested in studying (or are currently studying) and discuss the "efficiency/security trade-off". Is your network more efficiency-focused or security-focused? Or does it depend?
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
 
@@ -925,9 +925,9 @@ For your discussion this week, think about a network that you are interested in 
 
 Lab 5 will provide the opportunity to continue to familiarize yourself with bipartite graphs and two-mode networks in *R*. You will work with two networks. 
 
-First, you will use data collected from [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&), by David Fischer. In the book, Fischer documents Reveres connections through various affiliations in locations and how these influenced history. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). 
+First, you will use data collected from [Paul Revere's Ride](https://global.oup.com/ushe/product/paul-reveres-ride-9780195098310?cc=us&lang=en&) by David Fischer. In the book, Fischer documents Reveres' connections through various affiliations in locations and how these influenced history. The Paul Revere conspiracy dataset concerns relationships between 254 people and their affiliations with seven different organizations in Boston. The network is two-mode, with 254 actors and 7 organizations ("events"). 
 
-Second, you will use the Philippine Kidnappings Data which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salast movement that has been founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other terrorist attacks. The network is two-mode, with 246 actors (i.e.terrorist kidnappers) and 105 terrorist events the actors attended. 
+Second, you will use the Philippine Kidnappings Data, which is a collection of relationships on the Abu Sayyaf Group (ASG), a violent non-state actor operating in the Southern Philippines. In particular, this data is related to the Salast movement that was founded by Aburajak Janjalani, a native terrorist of the Southern Philippines in 1991. ASG is active in kidnapping and other terrorist attacks. The network is two-mode, with 246 actors (i.e., terrorist kidnappers) and 105 terrorist events the actors attended. 
 
 <a class="uk-button uk-button-default" onclick="window.open('../labs/lab-05-instructions.html')">LAB 5 Instructions</a>
 
@@ -965,9 +965,9 @@ As we saw in the last section, networks with complex node sets can be represente
 
 ## Learning Objectives
 
-By the end of this unit you will be able to:
+By the end of this unit, you will be able to:
 
- * Explain the logic of projection of bipartite graphs to unipartite graphs.
+ * Explain the logic of the projection of bipartite graphs to unipartite graphs.
  * Use matrix algebra to create projections of a network.
  * Know the consequences of projecting bipartite graphs to unipartite graphs.
 
@@ -984,7 +984,7 @@ Required reading for this unit includes:
 
 ## Lab Assignment
 
-Lab 6 will serve to familiarize yourself with projecting bipartite graphs to unipartite graphs in R. For this lab, we will revisit the networks we used in [Lab 5 - Bipartite Graphs and Two-Mode Networks](../labs/lab-05-instructions.html). 
+Lab 6 will serve to familiarize you with projecting bipartite graphs to unipartite graphs in R. For this lab, we will revisit the networks we used in [Lab 5 - Bipartite Graphs and Two-Mode Networks](../labs/lab-05-instructions.html). 
 
 <br>
 <br>
@@ -1011,7 +1011,7 @@ Required:
 The following checklist will help you stay organized in your sixth week.
 
 - [ ] Complete Assigned Textbook Chapter: [Projection](https://jacobtnyoung.github.io/snaca-textbook/snaca-projection.html)
-- [ ] Complete Assigned Software Tutorial: [Projection & Weigthed Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-projection.html)
+- [ ] Complete Assigned Software Tutorial: [Projection & Weighted Networks](https://jacobtnyoung.github.io/snaca-r/snaca-r-projection.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 6](../labs/lab-06-instructions.html) (See Below)
 - [ ] Begin [Final Project](../labs/final-project-instructions.html)
@@ -1024,11 +1024,11 @@ The following checklist will help you stay organized in your sixth week.
 
 ## Focused Interventions
 
-What good is a network analysis if we can't put it into action? A common network intervention is the "group-based violence intervention" where the goal is to use the network to disseminate credible threats to actors in a network.
+What good is a network analysis if we can't put it into action? A common network intervention is the "group-based violence intervention," where the goal is to use the network to disseminate credible threats to actors in a network.
 
-An example of this approach is discussed in the article [Choosing Representatives to Deliver the Message in a Group Violence Intervention](https://www.tandfonline.com/doi/full/10.1080/24751979.2019.1630661) by Andew Wheeler, Sarah McLean, Kelly Becker, and Robert Worden.
+An example of this approach is discussed in the article [Choosing Representatives to Deliver the Message in a Group Violence Intervention](https://www.tandfonline.com/doi/full/10.1080/24751979.2019.1630661) by Andrew Wheeler, Sarah McLean, Kelly Becker, and Robert Worden.
 
-For your discussion this week, review the article above and think about how such an intervention might be used in a network you are interested in studying (or currently studying). For this article, don't get lost in the details, think big picture in terms of what the "group-based violence intervention" model does and how analyst go about locating individuals who should be the ones to disseminate the message.
+For your discussion this week, review the article above and think about how such an intervention might be used in a network you are interested in studying (or currently studying). For this article, don't get lost in the details; think big picture in terms of what the "group-based violence intervention" model does and how analysts go about locating individuals who should be the ones to disseminate the message.
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
 
@@ -1042,7 +1042,7 @@ For your discussion this week, review the article above and think about how such
 
 ## Lab 6 - Projection
 
-Lab 6 will serve to familiarize yourself with projecting bipartite graphs to unipartite graphs in R. For this lab, we will revisit the networks we used in [Lab 5 - Bipartite Graphs and Two-Mode Networks](../labs/lab-05-instructions.html). 
+Lab 6 will serve to familiarize you with projecting bipartite graphs to unipartite graphs in R. For this lab, we will revisit the networks we used in [Lab 5 - Bipartite Graphs and Two-Mode Networks](../labs/lab-05-instructions.html). 
 
 <a class="uk-button uk-button-default" onclick="window.open('../labs/lab-06-instructions.html')">LAB 6 Instructions</a>
 

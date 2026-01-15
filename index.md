@@ -47,7 +47,7 @@ textbooks:
 
 The objective of this course is to introduce students to *Social Network Analysis* and its practical application in the criminal justice system. 
 Students will be able to understand and discuss the fundamental issues associated with social network analysis and will understand how to use software to conduct social network analysis. 
-This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts in criminal justice fields. 
+This course offers a practical, tools-based approach that is designed to build strong foundations for people who want to work as analysts in criminal justice fields. 
 The course is analytically rigorous, but no prior programming experience is assumed. By the end, you will know how to construct networks, analyze them, and create reports on networks.
 
 ## B. Course Objectives
@@ -80,8 +80,8 @@ Students will demonstrate competency in understanding, producing, and communicat
 2. Discussion topics on social network concepts as they pertain to crime and criminal justice
 3. A final project that integrates several skills developed through the course  
 
-Assigned work, including the final course project as well as regular, active participation in online discussion sessions 
-(a critical part of the course learning strategy), are the tools the instructor will use to measure comprehension and skill. 
+Assigned work, including the final course project, as well as regular, active participation in online discussion sessions 
+(a critical part of the course learning strategy) are the tools the instructor will use to measure comprehension and skill. 
 The course grade is a direct reflection of demonstrated performance. 
 Students should take stated expectations seriously regarding preparation, 
 conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
@@ -167,12 +167,12 @@ This means that if you want to get feedback, turn it in early!
 *NOTE*: Weekly labs <u>can</u> be **resubmitted** once. You can make revisions to your lab, based on my feedback, and I will regrade it (once). 
 For example, if you turn in a lab, receive a score of 7, and then revise the lab based on my feedback, you could earn a 10. 
 **Re**-submissions with revisions will be accepted up to the day that the lab is due. 
-Lab submissions or **re**-submissions <u>will not</u> be accepted after the lab review video is distributed as it will provide the solutions to the lab. 
+Lab submissions or **re**-submissions <u>will not</u> be accepted after the lab review video is distributed, as it will provide the solutions to the lab. 
 
 #### Lab Review Video
 
 After the due date for each lab, I will distribute a video with the solutions for the lab. 
-In these videos I will walk through the assignment and provide any additional insights that I deem necessary based on the grading of the labs.
+In these videos, I will walk through the assignment and provide any additional insights that I deem necessary based on the grading of the labs.
 
 ### Discussion Topics (10%)
 
@@ -231,7 +231,7 @@ Lecture files, assignments, and other course communications will be transmitted 
 
 Please post lab questions on the [**Get Help**](https://watts-college.github.io/crj-507-spring-2026/help/) page on this site, 
 schedule individual office hours using the [Calendly link](https://calendly.com/jacobtnyoung/crj-507-student-meeting), 
-and [email me](mailto:CRJ507@asu.edu). Please do not use the Canvas system to send emails or course questions as it is not set-up well for handling questions that we will address in this course.
+and [email me](mailto:CRJ507@asu.edu). Please do not use the Canvas system to send emails or course questions, as it is not set up well for handling questions that we will address in this course.
 
 Be aware that I will attempt to respond to any course-related email as quickly as possible. 
 I ask that you allow between 24 and 48 hours as a reasonable time to reply to questions or other issues posed in an email. 
@@ -276,10 +276,10 @@ Use of generative AI tools (e.g., ChatGPT, Copilot, Gemini, Claude, Code Llama, 
 
 You are expected to complete all work independently using only the materials and code provided in the course. 
 All code needed to complete assignments is provided within the course materials. 
-Therefore any code or approach not found in the course materials will be assumed to have originated from a generative AI tool.
+Therefore, any code or approach not found in the course materials will be assumed to have originated from a generative AI tool.
 
-If your submission contains material outside the scope of course-provided resources, it will be treated as a violation of this policy. 
-If an assignment contains AI-generated content or unauthorized code the assignment will receive a **0** and you will be required to **redo the assignment** using only approved course materials.
+If your submission contains material outside the scope of the course-provided resources, it will be treated as a violation of this policy. 
+If an assignment contains AI-generated content or unauthorized code, the assignment will receive a **0** and you will be required to **redo the assignment** using only approved course materials.
 
 Note that all course templates used for the labs are **copyrighted instructional materials**. 
 It is a violation of **course policy** and **copyright law** to upload or paste any portion of these materials into a generative AI system or external tool for processing, rewriting, or analysis.

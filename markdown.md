@@ -43,14 +43,14 @@ Here are the most useful formatting rules for Markdown:
 # Text Style
 
 ```
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+With Markdown, it is possible to emphasize words by making them *italicized*, using *asterisks* or _underscores_, or making them **bold**, using **double asterisks** or __double underscores__. 
 
 Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
 
 You can also add a strikethrough to text using a ~~double tilde~~.
 ```
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+With Markdown, it is possible to emphasize words by making them *italicized*, using *asterisks* or _underscores_, or making them **bold**, using **double asterisks** or __double underscores__. 
 
 Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
 
@@ -120,7 +120,7 @@ Insert images in a similar way, but add an exclamation mark in front of square b
 ![alt_text_here](image_file.png)
 ```
 
-The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image. It 
+The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image.
 
 It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
 
@@ -148,7 +148,7 @@ If you want to include images you need to add the image file to the [images fold
 
 You can just drag and drop the images into the folder, and GitHub will automatically initiate an upload option. After the upload progress bar is complete, click on the green "Commit changes" icon to complete the upload process.
 
-You will then reference images in text using markdown syntax (see the Markddown Guide above for more details):
+You will then reference images in text using markdown syntax (see the Markdown Guide above for more details):
 
 
 ---
@@ -161,7 +161,7 @@ You will then reference images in text using markdown syntax (see the Markddown 
 | Title 1          | Title 2          | Title 3         | Title 4         |
 |------------------|------------------|-----------------|-----------------|
 | First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
+| Fifth entry      | Sixth entry      | Seventh entry   | Eighth entry    |
 | Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
 
@@ -170,7 +170,7 @@ You will then reference images in text using markdown syntax (see the Markddown 
 | Title 1          | Title 2          | Title 3         | Title 4         |
 |------------------|------------------|-----------------|-----------------|
 | First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
+| Fifth entry      | Sixth entry      | Seventh entry   | Eighth entry    |
 | Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
 
